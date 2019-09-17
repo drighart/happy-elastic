@@ -1,8 +1,6 @@
 # Happy Elastic Search
 Dit voorbeeld beschrijft hoe data geschreven kan worden in Elastic Search en gevisualiseerd kan worden.
 
-Test
-
 ### Aanmaken Python virtual omgeving
 ```
 $ virtualenv -p `which python3` venv --always-copy
